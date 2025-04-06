@@ -1,0 +1,1 @@
+export const COLLECTION_NAME = "scraped_data_v4"

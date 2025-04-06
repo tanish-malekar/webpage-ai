@@ -1,3 +1,4 @@
 node_modules
 chroma-data
 .env
+test.js
